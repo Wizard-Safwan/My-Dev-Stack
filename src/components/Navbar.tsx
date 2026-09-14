@@ -65,6 +65,7 @@ function Navbar() {
         <div className="flex items-center gap-2 sm:gap-3">
           <button
             type="button"
+            aria-label="Sign in to your account"
             className="text-sm font-semibold text-slate-700 transition hover:text-slate-950"
           >
             Sign In
@@ -72,6 +73,7 @@ function Navbar() {
 
           <button
             type="button"
+            aria-label="Create a new account"
             className="rounded-full bg-slate-950 px-4 py-2 text-sm font-semibold text-white transition hover:bg-slate-800 sm:px-5"
           >
             Sign Up
