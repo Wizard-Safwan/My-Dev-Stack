@@ -70,7 +70,7 @@ In this project, I used it in the **Your Stack** section:
 )}
 ```
 
-When no technology is selected, the empty stack  is shown. When technologies are added, the selected technologies are displayed instead.
+When no technology is selected, the empty stack message is shown. When technologies are added, the selected technologies are displayed instead.
 
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
@@ -111,7 +111,7 @@ My-Dev-Stack/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Wizard-Safwan/My-Dev-Stack.git
 ```
 
 Go to the project directory:
@@ -140,11 +140,11 @@ npm run lint
 
 ## 🌐 Live Demo
 
-[YOUR_DEPLOYMENT_LINK](YOUR_DEPLOYMENT_LINK)
+YOUR_DEPLOYMENT_LINK: https://fabulous-4d.netlify.app
 
 ## 📁 GitHub Repository
 
-[YOUR_GITHUB_REPOSITORY_URL](YOUR_GITHUB_REPOSITORY_URL)
+GITHUB_REPOSITORY_URL: https://github.com/Wizard-Safwan/My-Dev-Stack
 
 ## 👨‍💻 Author
 
