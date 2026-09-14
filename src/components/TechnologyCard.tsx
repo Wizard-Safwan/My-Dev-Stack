@@ -59,6 +59,11 @@ function TechnologyCard({
         type="button"
         disabled={isAdded}
         onClick={() => onAdd(technology)}
+        aria-label={
+          isAdded
+            ? `${technology.name} has already been added to your stack`
+            : `Add ${technology.name} to your stack`
+        }
         className={`mt-4 w-full rounded-lg px-3 py-2.5 text-xs font-semibold transition ${
           isAdded
             ? "cursor-not-allowed border border-emerald-100 bg-emerald-50 text-emerald-600"
