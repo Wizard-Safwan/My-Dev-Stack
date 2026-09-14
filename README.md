@@ -70,7 +70,7 @@ In this project, I used it in the **Your Stack** section:
 )}
 ```
 
-When no technology is selected, the empty stack message is shown. When technologies are added, the selected technologies are displayed instead.
+When no technology is selected,  empty stack message is shown. When technologies are added, the selected technologies are displayed instead.
 
 ### 7. How do you pass data from a parent component to a child component, and how does a child send something back to the parent?
 
