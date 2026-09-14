@@ -15,7 +15,7 @@ function Hero() {
           <h1 className="text-4xl font-extrabold leading-[1.08] tracking-tight text-slate-950 sm:text-5xl lg:text-5xl xl:text-6xl">
             Build Your Ideal
             <span className="mt-1 block">
-              <span className="brand-gradient-text inline-block whitespace-nowrap">
+              <span className="brand-gradient-text inline-block max-w-full sm:whitespace-nowrap">
                 Development Stack
               </span>
             </span>
